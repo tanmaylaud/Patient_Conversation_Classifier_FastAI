@@ -25,7 +25,7 @@ tutorials provided by fast.ai (https://nbviewer.jupyter.org/github/fastai/course
 
 and their course (https://course.fast.ai/)
 
-#Approach
+# Approach
 The classifier uses the UlmFit Model 
 To understand the model in detail:
 visit: https://docs.fast.ai/text.html
